@@ -1,2 +1,9 @@
 Step 1. Order the pizza
-Step 2. Wait for Delivery
+    1a. if by yourself, pick what you like
+    1b. if with friends pick some together
+Step 2. Wait for pizza to be delivered
+    2a. play games or do something to pass the time
+Step 3. Recieve pizza from delivery man and pay for the pizza
+    3a. most likely will need to pay with cash
+    3b. Don't forget to tip the delivery driver
+Step 4. Enjoy
