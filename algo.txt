@@ -7,3 +7,5 @@ Step 3. Recieve pizza from delivery man and pay for the pizza
     3a. most likely will need to pay with cash
     3b. Don't forget to tip the delivery driver
 Step 4. Enjoy
+Step 5. if the order is incorrect, call and fix the order
+Step 6. If not delivered on time, check in on it by calling the pizza place
